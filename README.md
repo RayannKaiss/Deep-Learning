@@ -1,5 +1,3 @@
-# Deep-Learning
-
 # Projet : Prédiction_Bitcoin
 - KAISS Rayann
 - ZAROUTA Neila
